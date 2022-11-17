@@ -1,3 +1,5 @@
 # Meu repositório de exercícios
 
-# Testando PR
+    Aprendendo a trabalhar com o versionamento do github.
+
+    Posteriormente começaremos a trabaçhar com o HTML & CSS.
